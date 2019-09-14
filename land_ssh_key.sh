@@ -1,5 +1,5 @@
 #!/bin/bash
-#cerner_2^5_2019
+# cerner_2^5_2019
 
 echo -n 'Please enter your password: '
 read -sr USER_PASSWORD
